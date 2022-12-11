@@ -2,7 +2,7 @@
   Hi Everyone 👋
   </h2>
  
-My Names is Raffi Arief Akbar, Im FrontEnd Developer
+My Names is Bombong Nur Margo Seto, Im web Developer
 
 <h2 align='left'>
  I Use for Development
