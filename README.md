@@ -2,7 +2,7 @@
   Hi Everyone 👋
   </h2>
  
-My Names is Bombong Nur Margo Seto, Im web Developer
+You can call me Bombom, Im DevOps Engineer
 
 <h2 align='left'>
  I Use for Development
