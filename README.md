@@ -27,7 +27,7 @@ You can call me Bombom, Im DevOps Engineer
  </h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/HjxDev#0001)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bom.exe)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bombnd)
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=rapiariep&&style=flat&color=green)
 
 <h2 align='left'>
